@@ -1,2 +1,2 @@
 # Akhtar70
-LandungPage for a burger Restaurent
+LandingPage for a burger Restaurent
